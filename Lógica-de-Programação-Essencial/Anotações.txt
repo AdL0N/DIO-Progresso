@@ -1,0 +1,17 @@
+Lógica é coerência de raciocínio, de ideias ou sequencia coerente, regular e necesseária de acontecimentos, coisas.
+a lógica serve para se pensar corretamente, sendo assim, uma ferramenta do correto pensar
+
+Lógica de programação significa apenas contextualizar a lógica de computadores, buscando a melhor sequencia para solucionar um problema
+
+Um algoritmo é uma sequência de instruções bem definidas.
+
+Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples 
+(nativa a quem o escreve, de forma a ser entendida por qualquer pessoa) sem necessidade de conhecer 
+a sintaxe de nenhuma linguagem de programação
+
+A linguagem de programação é um método padronizado, formado por um conjunto de regras sintáticas e semânticas,
+de implementação de um código fonte - que pode ser compilado e transformado em um programa de computador.
+
+Portugol - Pseudoliguagem
+https://github.com/UNIVALI-LITE/Portugol-Studio/Releases/ ou
+https://portugol-webstudio.cubos.io/ide
