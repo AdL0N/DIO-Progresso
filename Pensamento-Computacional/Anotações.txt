@@ -1,0 +1,9 @@
+Pensamento Computacional é a habilidade para solucionar problemas de maneira eficiente, com o uso da tecnologia. 
+
+é baseado em quatro pilares
+* Decomposição: decompor em o problema em problemas menores
+* Reconhecimento de padrões: identificar os padrões ou tendências
+* Abstração: propõe o foco em processos relevantes
+* Design de algoritmo: corresponde à criação de passos e soluções para alcançar um objetivo
+
+Após definir a solução, ela deve ser aperfeiçoada. torna assim um processo continuio
